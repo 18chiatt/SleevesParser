@@ -8,3 +8,4 @@ The CSV for games should only contain the columns with the name, card number, an
 
 To use, pass the CSV of the games and the CSV of the sleeves list as arguments on the command line
 
+Examples are provided in the repository
